@@ -1,11 +1,11 @@
 ## Requirements
-- Python 3.6 or higher
+- Python 3.10 or higher
 - Tkinter installed
 - Matplotlib installed 
 
 ## Features
 - Calculate BMI value from given weight (in kg) and height (in m)
-- GUI based interaction
+- GUI-based interaction
 - Expection handling for 0 or negative numbers
 - Informs weight status such as
   - Underweight (less than 18.5)
@@ -14,7 +14,7 @@
   - Obesity Class 1 (30 to 35)
   - Obesity Class 2 (35 to 40)
   - Obesity Class 3 (Greater than 40)
-- Colors are asigned to all the weight status such as
+- Colors are assigned to all the weight statuses such as
   - Blue for Underweight
   - Green for Normal
   - Yellow for Overweight
