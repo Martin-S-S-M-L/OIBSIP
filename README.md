@@ -1,3 +1,4 @@
+## BMI Calculator
 ## Requirements
 - Python 3.10 or higher
 - Tkinter installed
